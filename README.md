@@ -28,3 +28,9 @@ If you have any questions, reach out to me here:
 **Phone:** 571-550-1663 (Preferably text first!)
 
 **Email:** rhys.cabot@gmail.com
+
+## NOTE:
+
+All assets amde in this project are my own, with 1 exception: the font I used was made by a user named Tiny Worlds on the Unity asset store. Here's a link to the asset: https://assetstore.unity.com/packages/2d/fonts/free-pixel-font-thaleah-140059?srsltid=AfmBOoo_cML4oEeKqIxd-Y3WmuXf_8p5-rY6eNKhvhLc76hH9lJpSOK6
+
+The asset is free for personal and commercial use, but I nonetheless wanted to clarify and give credit.
